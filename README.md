@@ -1,2 +1,3 @@
 # miniProject
-this is a demo git &amp; git&amp;hub class
+this is a mini project
+
